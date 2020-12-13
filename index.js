@@ -4,12 +4,12 @@
 * jangan ubah semuanya kecuali nama bot instagram yt itu ajah yg lain jangan!!!
 * hargai pembuat skrip woy!!! DI UBAH AUTO EROR GAN
 */
-const XPTN = 'VIN05'; // JANGAN DI UBAH NNTI EROR
-const instagram = 'https://instagram.com/semblegedezchanel'; // JANGAN DI UBAH NNTI EROR
-const nomer = 'https://Wa.me/+6289527818905'; // JANGAN DI UBAH NANTI EROR
-const aktif = 'Sesuai Selera'; // DI GANTI AUTO EROR
-const groupwa = 'https://chat.whatsapp.com/GKx4pINnvWR8PhebiFHxwN'; // DI GANTI AUTO EROR
-const youtube = 'https://www.youtube.com/channel/UCOCDpVEjEo7CFp7RcKru-MQ'; // DI GANTI AUTO EROR
+const XPTN = 'Kanao Tsuyuri'; // JANGAN DI UBAH NNTI EROR
+const instagram = 'https://instagram.com/_demon.08?igshid=mrfqxiom3xfb'; // JANGAN DI UBAH NNTI EROR
+const nomer = 'https://Wa.me/+62895323014190'; // JANGAN DI UBAH NANTI EROR
+const aktif = 'Sesuai Mood Gw'; // DI GANTI AUTO EROR
+const groupwa = 'https://chat.whatsapp.com/DK9RdvXDBfBIH0Qy9alAVo'; // DI GANTI AUTO EROR
+const youtube = 'https://chat.whatsapp.com/DK9RdvXDBfBIH0Qy9alAVo'; // DI GANTI AUTO EROR
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
@@ -60,7 +60,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] MR05 Ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] Kanao Ready scan now!`);
 });
 
 conn.on('credentials-updated', () =>
@@ -75,11 +75,11 @@ fs.existsSync('./session.json') && conn.loadAuthInfo('./session.json')
 //conn.connectOptions.agent = ProxyAgent ('http://1.0.180.120:8080')
 conn.connect();
 
-conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @semblegedezchanel`))
+conn.on('user-presence-update', json => console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @kanaotsuyuri`))
 conn.on('message-status-update', json =>
 {
    const participant = json.participant ? ' (' + json.participant + ')' : '' // participant exists when the message is from a group
-   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @semblegedezchanel`)
+   console.log(`[ ${moment().format("HH:mm:ss")} ] => bot by @kanaotsuyuri`)
 })
 
 conn.on('message-new', async(m) =>
