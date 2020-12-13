@@ -1111,25 +1111,25 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim .foto cewek/cowok\n\nContoh: .foto cewek' ,MessageType.text);
 }
 else if (text == '!help'){
-conn.sendMessage(id, ' _TERIMAKASIH BANYAK TELAH MENGGUNAKAN FITUR INI...UNTUK PEMBUATAN BOT INI CEK CHANEL semblegedez YT TINGGALKAN SUBSCRIBE YHA' ,MessageType.text);
+conn.sendMessage(id, ' _TERIMAKASIH BANYAK TELAH MENGGUNAKAN FITUR INI...UNTUK PEMBUATAN BOT INI CEK CHANEL ShiroNeko YT TINGGALKAN SUBSCRIBE YHA' ,MessageType.text);
 }
 else if (text == '.tools1'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾VIN05👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@semblegedezchanel' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾ShizuE👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_demon.08?igshid=mrfqxiom3xfb' ,MessageType.text);
 }
 else if (text == '.menu'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾VIN05👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@semblegedezcahnel' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾ShizuE👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_demon.08?igshid=mrfqxiom3xfb' ,MessageType.text);
 }
 else if (text == '.tool2'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾VIN05👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@semblegedezchanel' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾ShizuE👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_demon.08?igshid=mrfqxiom3xfb' ,MessageType.text);
 }
 else if (text == '.tools3'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾VIN05👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@semblegedezchanel' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾ShizuE👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_demon.08?igshid=mrfqxiom3xfb' ,MessageType.text);
 }
 else if (text == '.tools4'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾VIN05👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@semblegedezchanel' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾ShizuE👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_demon.08?igshid=mrfqxiom3xfb' ,MessageType.text);
 }
 else if (text == '.tools5'){
-conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾VIN05👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/@semblegedezchanel' ,MessageType.text);
+conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾ShizuE👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_demon.08?igshid=mrfqxiom3xfb' ,MessageType.text);
 }
    if (messageType == 'imageMessage')
    {
