@@ -174,7 +174,7 @@ else if (text == 'Hai'){
 conn.sendMessage(id, 'Ya?, Ketik !help/!info/!donasi Contoh !help' ,MessageType.text);
 }
 else if (text == '.ttp'){
-conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/6289527818905* ' ,MessageType.text);
+conn.sendMessage(id, ' *COMMAND PREMIUM CHAT WA https://wa.me/62895323014190* ' ,MessageType.text);
 }
 else if (text == 'Woi'){
 conn.sendMessage(id, 'Ya?, Ketik !help/!info/!donasi Contoh !help' ,MessageType.text);
@@ -216,13 +216,13 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik !help/!info/!donasi Contoh !help' ,MessageType.text);
 }
 else if (text == '!frendsowner'){
-conn.sendMessage(id, 'kawan1 iskandar wa.me/+6289527818905' ,MessageType.text);
+conn.sendMessage(id, 'kawan1 iskandar wa.me/+62895323014190' ,MessageType.text);
 }
 else if (text == '!coowner'){
-conn.sendMessage(id, 'kawan2 testing script wa.me/+6289527818905' ,MessageType.text);
+conn.sendMessage(id, 'kawan2 testing script wa.me/+62895323014190' ,MessageType.text);
 }
 else if (text == '!groupbot'){
-conn.sendMessage(id, 'https://chat.whatsapp.com/GKx4pINnvWR8PhebiFHxwN' ,MessageType.text);
+conn.sendMessage(id, 'https://chat.whatsapp.com/DK9RdvXDBfBIH0Qy9alAVo' ,MessageType.text);
 }
 else if (text == '!tools1'){
 conn.sendMessage(id, ' *Menampilkan Fitur tools1!!!* ' ,MessageType.text);
@@ -1111,7 +1111,7 @@ else if (text == '!foto'){
 conn.sendMessage(id, 'kirim .foto cewek/cowok\n\nContoh: .foto cewek' ,MessageType.text);
 }
 else if (text == '!help'){
-conn.sendMessage(id, ' _TERIMAKASIH BANYAK TELAH MENGGUNAKAN FITUR INI...UNTUK PEMBUATAN BOT INI CEK CHANEL ShiroNeko YT TINGGALKAN SUBSCRIBE YHA' ,MessageType.text);
+conn.sendMessage(id, ' _TERIMAKASIH BANYAK TELAH MENGGUNAKAN FITUR INI...JANGAN LUPA UNTUK FOLLOW IG @_demon.08 TINGGALKAN SUBSCRIBE YHA' ,MessageType.text);
 }
 else if (text == '.tools1'){
 conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾ShizuE👾* , Follow Instagram Mimin Yah😻 : https://instagram.com/_demon.08?igshid=mrfqxiom3xfb' ,MessageType.text);
